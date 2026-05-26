@@ -1,0 +1,6 @@
+[files]
+extend-exclude = [
+  "Cargo.nix",   # crate2nix-generated; mirrors upstream verbatim
+  "Cargo.lock",
+  "flake.lock",
+]
