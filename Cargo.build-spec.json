@@ -1,0 +1,1235 @@
+{
+  "version": 2,
+  "workspace": {
+    "root": "/Users/drzzln/code/github/pleme-io/caixa-env_logger",
+    "members": [
+      {
+        "name": "env_filter",
+        "relative_path": "crates/env_filter"
+      },
+      {
+        "name": "env_logger",
+        "relative_path": "."
+      }
+    ]
+  },
+  "crates": {
+    "aho-corasick-1.1.4": {
+      "name": "aho-corasick",
+      "version": "1.1.4",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/aho-corasick/1.1.4/download",
+        "sha256": "ddd31a130427c27518df266943a5308ed92d4b226cc639f5a8f1002816174301",
+        "name_with_ext": "aho-corasick-1.1.4.tar.gz"
+      },
+      "features": [
+        "perf-literal",
+        "std"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "aho_corasick",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [
+        {
+          "name": "memchr",
+          "package_key": "memchr-2.8.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        }
+      ],
+      "runtime_dependencies": [
+        {
+          "name": "memchr",
+          "package_key": "memchr-2.8.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        }
+      ],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "anstream-1.0.0": {
+      "name": "anstream",
+      "version": "1.0.0",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/anstream/1.0.0/download",
+        "sha256": "824a212faf96e9acacdbd09febd34438f8f711fb84e09a8916013cd7815ca28d",
+        "name_with_ext": "anstream-1.0.0.tar.gz"
+      },
+      "features": [
+        "auto",
+        "default",
+        "wincon"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "anstream",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [
+        {
+          "name": "anstyle",
+          "package_key": "anstyle-1.0.14",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "anstyle_parse",
+          "package_key": "anstyle-parse-1.0.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "anstyle_query",
+          "package_key": "anstyle-query-1.1.5",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "colorchoice",
+          "package_key": "colorchoice-1.0.5",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "is_terminal_polyfill",
+          "package_key": "is_terminal_polyfill-1.70.2",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "utf8parse",
+          "package_key": "utf8parse-0.2.2",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        }
+      ],
+      "runtime_dependencies": [
+        {
+          "name": "anstyle",
+          "package_key": "anstyle-1.0.14",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "anstyle_parse",
+          "package_key": "anstyle-parse-1.0.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "anstyle_query",
+          "package_key": "anstyle-query-1.1.5",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "colorchoice",
+          "package_key": "colorchoice-1.0.5",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "is_terminal_polyfill",
+          "package_key": "is_terminal_polyfill-1.70.2",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "utf8parse",
+          "package_key": "utf8parse-0.2.2",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        }
+      ],
+      "build_dependencies": [],
+      "crate_renames": {
+        "anstyle-parse": [
+          {
+            "version": "1.0.0",
+            "rename": "anstyle_parse"
+          }
+        ],
+        "anstyle-query": [
+          {
+            "version": "1.1.5",
+            "rename": "anstyle_query"
+          }
+        ]
+      }
+    },
+    "anstyle-1.0.14": {
+      "name": "anstyle",
+      "version": "1.0.14",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/anstyle/1.0.14/download",
+        "sha256": "940b3a0ca603d1eade50a4846a2afffd5ef57a9feac2c0e2ec2e14f9ead76000",
+        "name_with_ext": "anstyle-1.0.14.tar.gz"
+      },
+      "features": [
+        "default",
+        "std"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "anstyle",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "anstyle-parse-1.0.0": {
+      "name": "anstyle-parse",
+      "version": "1.0.0",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/anstyle-parse/1.0.0/download",
+        "sha256": "52ce7f38b242319f7cabaa6813055467063ecdc9d355bbb4ce0c68908cd8130e",
+        "name_with_ext": "anstyle-parse-1.0.0.tar.gz"
+      },
+      "features": [
+        "default",
+        "utf8"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "anstyle_parse",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [
+        {
+          "name": "utf8parse",
+          "package_key": "utf8parse-0.2.2",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": true,
+          "target": null
+        }
+      ],
+      "runtime_dependencies": [
+        {
+          "name": "utf8parse",
+          "package_key": "utf8parse-0.2.2",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": true,
+          "target": null
+        }
+      ],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "anstyle-query-1.1.5": {
+      "name": "anstyle-query",
+      "version": "1.1.5",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/anstyle-query/1.1.5/download",
+        "sha256": "40c48f72fd53cd289104fc64099abca73db4166ad86ea0b4341abe65af83dadc",
+        "name_with_ext": "anstyle-query-1.1.5.tar.gz"
+      },
+      "features": [],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "anstyle_query",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "colorchoice-1.0.5": {
+      "name": "colorchoice",
+      "version": "1.0.5",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/colorchoice/1.0.5/download",
+        "sha256": "1d07550c9036bf2ae0c684c4297d503f838287c83c53686d05370d0e139ae570",
+        "name_with_ext": "colorchoice-1.0.5.tar.gz"
+      },
+      "features": [],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "colorchoice",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "env_filter-1.0.2": {
+      "name": "env_filter",
+      "version": "1.0.2",
+      "edition": "2021",
+      "source": {
+        "kind": "path",
+        "relative_path": "crates/env_filter"
+      },
+      "features": [
+        "default",
+        "regex"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "env_filter",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [
+        {
+          "name": "log",
+          "package_key": "log-0.4.29",
+          "kind": "normal",
+          "features": [
+            "std"
+          ],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "regex",
+          "package_key": "regex-1.12.3",
+          "kind": "normal",
+          "features": [
+            "std",
+            "perf"
+          ],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        }
+      ],
+      "runtime_dependencies": [
+        {
+          "name": "log",
+          "package_key": "log-0.4.29",
+          "kind": "normal",
+          "features": [
+            "std"
+          ],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "regex",
+          "package_key": "regex-1.12.3",
+          "kind": "normal",
+          "features": [
+            "std",
+            "perf"
+          ],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        }
+      ],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "env_logger-0.11.11": {
+      "name": "env_logger",
+      "version": "0.11.11",
+      "edition": "2021",
+      "source": {
+        "kind": "path",
+        "relative_path": "."
+      },
+      "features": [
+        "auto-color",
+        "color",
+        "default",
+        "humantime",
+        "regex"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "env_logger",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [
+        {
+          "name": "anstream",
+          "package_key": "anstream-1.0.0",
+          "kind": "normal",
+          "features": [
+            "wincon"
+          ],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "anstyle",
+          "package_key": "anstyle-1.0.14",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "env_filter",
+          "package_key": "env_filter-1.0.2",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "jiff",
+          "package_key": "jiff-0.2.24",
+          "kind": "normal",
+          "features": [
+            "std"
+          ],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "log",
+          "package_key": "log-0.4.29",
+          "kind": "normal",
+          "features": [
+            "std"
+          ],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        }
+      ],
+      "runtime_dependencies": [
+        {
+          "name": "anstream",
+          "package_key": "anstream-1.0.0",
+          "kind": "normal",
+          "features": [
+            "wincon"
+          ],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "anstyle",
+          "package_key": "anstyle-1.0.14",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "env_filter",
+          "package_key": "env_filter-1.0.2",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "jiff",
+          "package_key": "jiff-0.2.24",
+          "kind": "normal",
+          "features": [
+            "std"
+          ],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "log",
+          "package_key": "log-0.4.29",
+          "kind": "normal",
+          "features": [
+            "std"
+          ],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        }
+      ],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "is_terminal_polyfill-1.70.2": {
+      "name": "is_terminal_polyfill",
+      "version": "1.70.2",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/is_terminal_polyfill/1.70.2/download",
+        "sha256": "a6cb138bb79a146c1bd460005623e142ef0181e3d0219cb493e02f7d08a35695",
+        "name_with_ext": "is_terminal_polyfill-1.70.2.tar.gz"
+      },
+      "features": [
+        "default"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "is_terminal_polyfill",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "jiff-0.2.24": {
+      "name": "jiff",
+      "version": "0.2.24",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/jiff/0.2.24/download",
+        "sha256": "f00b5dbd620d61dfdcb6007c9c1f6054ebd75319f163d886a9055cec1155073d",
+        "name_with_ext": "jiff-0.2.24.tar.gz"
+      },
+      "features": [
+        "alloc",
+        "std"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "jiff",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [
+        {
+          "name": "log",
+          "package_key": "log-0.4.29",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "serde_core",
+          "package_key": "serde_core-1.0.228",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        }
+      ],
+      "runtime_dependencies": [
+        {
+          "name": "log",
+          "package_key": "log-0.4.29",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "serde_core",
+          "package_key": "serde_core-1.0.228",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        }
+      ],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "log-0.4.29": {
+      "name": "log",
+      "version": "0.4.29",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/log/0.4.29/download",
+        "sha256": "5e5032e24019045c762d3c0f28f5b6b8bbf38563a65908389bf7978758920897",
+        "name_with_ext": "log-0.4.29.tar.gz"
+      },
+      "features": [
+        "std"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "log",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "memchr-2.8.0": {
+      "name": "memchr",
+      "version": "2.8.0",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/memchr/2.8.0/download",
+        "sha256": "f8ca58f447f06ed17d5fc4043ce1b10dd205e060fb3ce5b979b8ed8e59ff3f79",
+        "name_with_ext": "memchr-2.8.0.tar.gz"
+      },
+      "features": [
+        "alloc",
+        "std"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "memchr",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "normalize-line-endings-0.3.0": {
+      "name": "normalize-line-endings",
+      "version": "0.3.0",
+      "edition": "2015",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/normalize-line-endings/0.3.0/download",
+        "sha256": "61807f77802ff30975e01f4f071c8ba10c022052f98b3294119f3e615d13e5be",
+        "name_with_ext": "normalize-line-endings-0.3.0.tar.gz"
+      },
+      "features": [],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "normalize_line_endings",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "regex-1.12.3": {
+      "name": "regex",
+      "version": "1.12.3",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/regex/1.12.3/download",
+        "sha256": "e10754a14b9137dd7b1e3e5b0493cc9171fdd105e0ab477f51b72e7f3ac0e276",
+        "name_with_ext": "regex-1.12.3.tar.gz"
+      },
+      "features": [
+        "perf",
+        "perf-backtrack",
+        "perf-cache",
+        "perf-dfa",
+        "perf-inline",
+        "perf-literal",
+        "perf-onepass",
+        "std"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "regex",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [
+        {
+          "name": "aho_corasick",
+          "package_key": "aho-corasick-1.1.4",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "memchr",
+          "package_key": "memchr-2.8.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "regex_automata",
+          "package_key": "regex-automata-0.4.14",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "regex_syntax",
+          "package_key": "regex-syntax-0.8.10",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        }
+      ],
+      "runtime_dependencies": [
+        {
+          "name": "aho_corasick",
+          "package_key": "aho-corasick-1.1.4",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "memchr",
+          "package_key": "memchr-2.8.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "regex_automata",
+          "package_key": "regex-automata-0.4.14",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "regex_syntax",
+          "package_key": "regex-syntax-0.8.10",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        }
+      ],
+      "build_dependencies": [],
+      "crate_renames": {
+        "aho-corasick": [
+          {
+            "version": "1.1.4",
+            "rename": "aho_corasick"
+          }
+        ],
+        "regex-automata": [
+          {
+            "version": "0.4.14",
+            "rename": "regex_automata"
+          }
+        ],
+        "regex-syntax": [
+          {
+            "version": "0.8.10",
+            "rename": "regex_syntax"
+          }
+        ]
+      }
+    },
+    "regex-automata-0.4.14": {
+      "name": "regex-automata",
+      "version": "0.4.14",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/regex-automata/0.4.14/download",
+        "sha256": "6e1dd4122fc1595e8162618945476892eefca7b88c52820e74af6262213cae8f",
+        "name_with_ext": "regex-automata-0.4.14.tar.gz"
+      },
+      "features": [
+        "alloc",
+        "dfa-onepass",
+        "hybrid",
+        "meta",
+        "nfa-backtrack",
+        "nfa-pikevm",
+        "nfa-thompson",
+        "perf-inline",
+        "perf-literal",
+        "perf-literal-multisubstring",
+        "perf-literal-substring",
+        "std",
+        "syntax"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "regex_automata",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [
+        {
+          "name": "aho_corasick",
+          "package_key": "aho-corasick-1.1.4",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "memchr",
+          "package_key": "memchr-2.8.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "regex_syntax",
+          "package_key": "regex-syntax-0.8.10",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        }
+      ],
+      "runtime_dependencies": [
+        {
+          "name": "aho_corasick",
+          "package_key": "aho-corasick-1.1.4",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "memchr",
+          "package_key": "memchr-2.8.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": false,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "regex_syntax",
+          "package_key": "regex-syntax-0.8.10",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        }
+      ],
+      "build_dependencies": [],
+      "crate_renames": {
+        "aho-corasick": [
+          {
+            "version": "1.1.4",
+            "rename": "aho_corasick"
+          }
+        ],
+        "regex-syntax": [
+          {
+            "version": "0.8.10",
+            "rename": "regex_syntax"
+          }
+        ]
+      }
+    },
+    "regex-syntax-0.8.10": {
+      "name": "regex-syntax",
+      "version": "0.8.10",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/regex-syntax/0.8.10/download",
+        "sha256": "dc897dd8d9e8bd1ed8cdad82b5966c3e0ecae09fb1907d58efaa013543185d0a",
+        "name_with_ext": "regex-syntax-0.8.10.tar.gz"
+      },
+      "features": [
+        "std"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "regex_syntax",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "serde_core-1.0.228": {
+      "name": "serde_core",
+      "version": "1.0.228",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/serde_core/1.0.228/download",
+        "sha256": "41d385c7d4ca58e59fc732af25c3983b67ac852c1a25000afe1175de458b67ad",
+        "name_with_ext": "serde_core-1.0.228.tar.gz"
+      },
+      "features": [
+        "alloc",
+        "std"
+      ],
+      "proc_macro": false,
+      "build_script": "build.rs",
+      "binaries": [],
+      "lib_target": {
+        "name": "serde_core",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "similar-2.7.0": {
+      "name": "similar",
+      "version": "2.7.0",
+      "edition": "2018",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/similar/2.7.0/download",
+        "sha256": "bbbb5d9659141646ae647b42fe094daf6c6192d1620870b449d9557f748b2daa",
+        "name_with_ext": "similar-2.7.0.tar.gz"
+      },
+      "features": [
+        "default",
+        "inline",
+        "text"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "similar",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "snapbox-1.1.0": {
+      "name": "snapbox",
+      "version": "1.1.0",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/snapbox/1.1.0/download",
+        "sha256": "b7a2e43da79cf7c50d938bd15e4b17e7fc450113e5ace6e6e9acfe022facbf8d",
+        "name_with_ext": "snapbox-1.1.0.tar.gz"
+      },
+      "features": [
+        "color",
+        "color-auto",
+        "default",
+        "diff"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [
+        {
+          "name": "snap-fixture",
+          "path": "src/bin/snap-fixture.rs"
+        }
+      ],
+      "lib_target": {
+        "name": "snapbox",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [
+        {
+          "name": "anstream",
+          "package_key": "anstream-1.0.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "anstyle",
+          "package_key": "anstyle-1.0.14",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "normalize_line_endings",
+          "package_key": "normalize-line-endings-0.3.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "similar",
+          "package_key": "similar-2.7.0",
+          "kind": "normal",
+          "features": [
+            "inline"
+          ],
+          "uses_default_features": true,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "snapbox_macros",
+          "package_key": "snapbox-macros-1.0.1",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        }
+      ],
+      "runtime_dependencies": [
+        {
+          "name": "anstream",
+          "package_key": "anstream-1.0.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "anstyle",
+          "package_key": "anstyle-1.0.14",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "normalize_line_endings",
+          "package_key": "normalize-line-endings-0.3.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        },
+        {
+          "name": "similar",
+          "package_key": "similar-2.7.0",
+          "kind": "normal",
+          "features": [
+            "inline"
+          ],
+          "uses_default_features": true,
+          "optional": true,
+          "target": null
+        },
+        {
+          "name": "snapbox_macros",
+          "package_key": "snapbox-macros-1.0.1",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": false,
+          "target": null
+        }
+      ],
+      "build_dependencies": [],
+      "crate_renames": {
+        "normalize-line-endings": [
+          {
+            "version": "0.3.0",
+            "rename": "normalize_line_endings"
+          }
+        ],
+        "snapbox-macros": [
+          {
+            "version": "1.0.1",
+            "rename": "snapbox_macros"
+          }
+        ]
+      }
+    },
+    "snapbox-macros-1.0.1": {
+      "name": "snapbox-macros",
+      "version": "1.0.1",
+      "edition": "2021",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/snapbox-macros/1.0.1/download",
+        "sha256": "d62a48443d404309a6006676336ff6311ef72ee78561d6a7628d952912155386",
+        "name_with_ext": "snapbox-macros-1.0.1.tar.gz"
+      },
+      "features": [
+        "color",
+        "default"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "snapbox_macros",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [
+        {
+          "name": "anstream",
+          "package_key": "anstream-1.0.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": true,
+          "target": null
+        }
+      ],
+      "runtime_dependencies": [
+        {
+          "name": "anstream",
+          "package_key": "anstream-1.0.0",
+          "kind": "normal",
+          "features": [],
+          "uses_default_features": true,
+          "optional": true,
+          "target": null
+        }
+      ],
+      "build_dependencies": [],
+      "crate_renames": {}
+    },
+    "utf8parse-0.2.2": {
+      "name": "utf8parse",
+      "version": "0.2.2",
+      "edition": "2018",
+      "source": {
+        "kind": "registry",
+        "url": "https://crates.io/api/v1/crates/utf8parse/0.2.2/download",
+        "sha256": "06abde3611657adf66d383f00b093d7faecc7fa57071cce2578660c9f1010821",
+        "name_with_ext": "utf8parse-0.2.2.tar.gz"
+      },
+      "features": [
+        "default"
+      ],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "utf8parse",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    }
+  },
+  "root_crate": "env_logger-0.11.11",
+  "workspace_members": [
+    "env_filter-1.0.2",
+    "env_logger-0.11.11"
+  ],
+  "flake_metadata": {
+    "env_filter": {
+      "default_bin": null,
+      "repo": "rust-cli/env_logger"
+    },
+    "env_logger": {
+      "default_bin": null,
+      "repo": "rust-cli/env_logger"
+    }
+  }
+}
