@@ -31,10 +31,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "aho_corasick",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "memchr",
@@ -78,10 +75,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "anstream",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "anstyle",
@@ -227,10 +221,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "anstyle",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -253,10 +244,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "anstyle_parse",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "utf8parse",
@@ -296,10 +284,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "anstyle_query",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -319,10 +304,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "colorchoice",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -343,10 +325,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "env_filter",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "log",
@@ -418,10 +397,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "env_logger",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "anstream",
@@ -547,10 +523,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "is_terminal_polyfill",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -573,10 +546,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "jiff",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "log",
@@ -636,10 +606,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "log",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -662,10 +629,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "memchr",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -685,10 +649,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "normalize_line_endings",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -717,10 +678,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "regex",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "aho_corasick",
@@ -847,10 +805,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "regex_automata",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "aho_corasick",
@@ -941,10 +896,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "regex_syntax",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -967,10 +919,7 @@
       "proc_macro": false,
       "build_script": "build.rs",
       "binaries": [],
-      "lib_target": {
-        "name": "serde_core",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -994,10 +943,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "similar",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -1027,10 +973,7 @@
           "path": "src/bin/snap-fixture.rs"
         }
       ],
-      "lib_target": {
-        "name": "snapbox",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "anstream",
@@ -1162,10 +1105,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "snapbox_macros",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "anstream",
@@ -1207,10 +1147,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "utf8parse",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
