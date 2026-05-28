@@ -1,7 +1,7 @@
 {
-  "version": 3,
+  "version": 5,
   "workspace": {
-    "root": "/Users/drzzln/code/github/pleme-io/caixa-env_logger",
+    "root": "/Users/luis.d/code/github/pleme-io/caixa-env_logger",
     "members": [
       {
         "name": "env_filter",
@@ -41,7 +41,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -52,7 +53,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -97,7 +99,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle_parse",
@@ -106,7 +109,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle_query",
@@ -115,7 +119,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "colorchoice",
@@ -124,7 +129,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "is_terminal_polyfill",
@@ -133,7 +139,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "utf8parse",
@@ -142,7 +149,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -153,7 +161,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle_parse",
@@ -162,7 +171,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle_query",
@@ -171,7 +181,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "colorchoice",
@@ -180,7 +191,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "is_terminal_polyfill",
@@ -189,7 +201,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "utf8parse",
@@ -198,7 +211,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -305,7 +319,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -316,7 +331,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -419,7 +435,8 @@
           ],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "regex",
@@ -431,7 +448,8 @@
           ],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -444,7 +462,8 @@
           ],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "regex",
@@ -456,7 +475,8 @@
           ],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -508,7 +528,8 @@
           ],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle",
@@ -517,7 +538,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "env_filter",
@@ -526,7 +548,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "jiff",
@@ -537,7 +560,8 @@
           ],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "log",
@@ -548,7 +572,8 @@
           ],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -561,7 +586,8 @@
           ],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle",
@@ -570,7 +596,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "env_filter",
@@ -579,7 +606,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "jiff",
@@ -590,7 +618,8 @@
           ],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "log",
@@ -601,7 +630,8 @@
           ],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -683,7 +713,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "serde_core",
@@ -692,7 +723,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -703,7 +735,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "serde_core",
@@ -712,7 +745,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -858,7 +892,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "memchr",
@@ -867,7 +902,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "regex_automata",
@@ -876,7 +912,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "regex_syntax",
@@ -885,7 +922,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -896,7 +934,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "memchr",
@@ -905,7 +944,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "regex_automata",
@@ -914,7 +954,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "regex_syntax",
@@ -923,7 +964,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -1023,7 +1065,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "memchr",
@@ -1032,7 +1075,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "regex_syntax",
@@ -1041,7 +1085,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -1052,7 +1097,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "memchr",
@@ -1061,7 +1107,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "regex_syntax",
@@ -1070,7 +1117,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -1265,7 +1313,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle",
@@ -1274,7 +1323,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "normalize_line_endings",
@@ -1283,7 +1333,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "similar",
@@ -1294,7 +1345,8 @@
           ],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "snapbox_macros",
@@ -1303,7 +1355,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -1314,7 +1367,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle",
@@ -1323,7 +1377,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "normalize_line_endings",
@@ -1332,7 +1387,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "similar",
@@ -1343,7 +1399,8 @@
           ],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "snapbox_macros",
@@ -1352,7 +1409,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -1425,7 +1483,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -1436,7 +1495,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -1500,6 +1560,4538 @@
     "env_logger": {
       "default_bin": null,
       "repo": "rust-cli/env_logger"
+    }
+  },
+  "target_resolves": {
+    "aarch64-apple-darwin": {
+      "crates": {
+        "aho-corasick-1.1.4": {
+          "dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "env_filter-1.0.2": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "env_logger-0.11.11": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "jiff-0.2.24": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "log-0.4.29": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "memchr-2.8.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "normalize-line-endings-0.3.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "regex-1.12.3": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-automata-0.4.14": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-syntax-0.8.10": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "serde_core-1.0.228": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "similar-2.7.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "snapbox-1.1.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "snapbox-macros-1.0.1": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
+    },
+    "x86_64-apple-darwin": {
+      "crates": {
+        "aho-corasick-1.1.4": {
+          "dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "env_filter-1.0.2": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "env_logger-0.11.11": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "jiff-0.2.24": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "log-0.4.29": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "memchr-2.8.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "normalize-line-endings-0.3.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "regex-1.12.3": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-automata-0.4.14": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-syntax-0.8.10": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "serde_core-1.0.228": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "similar-2.7.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "snapbox-1.1.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "snapbox-macros-1.0.1": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
+    },
+    "x86_64-unknown-linux-gnu": {
+      "crates": {
+        "aho-corasick-1.1.4": {
+          "dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "env_filter-1.0.2": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "env_logger-0.11.11": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "jiff-0.2.24": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "log-0.4.29": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "memchr-2.8.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "normalize-line-endings-0.3.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "regex-1.12.3": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-automata-0.4.14": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-syntax-0.8.10": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "serde_core-1.0.228": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "similar-2.7.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "snapbox-1.1.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "snapbox-macros-1.0.1": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
+    },
+    "x86_64-unknown-linux-musl": {
+      "crates": {
+        "aho-corasick-1.1.4": {
+          "dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "env_filter-1.0.2": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "env_logger-0.11.11": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "jiff-0.2.24": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "log-0.4.29": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "memchr-2.8.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "normalize-line-endings-0.3.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "regex-1.12.3": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-automata-0.4.14": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-syntax-0.8.10": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "serde_core-1.0.228": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "similar-2.7.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "snapbox-1.1.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "snapbox-macros-1.0.1": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
+    },
+    "aarch64-unknown-linux-gnu": {
+      "crates": {
+        "aho-corasick-1.1.4": {
+          "dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "env_filter-1.0.2": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "env_logger-0.11.11": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "jiff-0.2.24": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "log-0.4.29": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "memchr-2.8.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "normalize-line-endings-0.3.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "regex-1.12.3": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-automata-0.4.14": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-syntax-0.8.10": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "serde_core-1.0.228": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "similar-2.7.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "snapbox-1.1.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "snapbox-macros-1.0.1": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
+    },
+    "aarch64-unknown-linux-musl": {
+      "crates": {
+        "aho-corasick-1.1.4": {
+          "dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "env_filter-1.0.2": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex",
+              "package_key": "regex-1.12.3",
+              "kind": "normal",
+              "features": [
+                "std",
+                "perf"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "env_logger-0.11.11": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [
+                "wincon"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "env_filter",
+              "package_key": "env_filter-1.0.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "jiff",
+              "package_key": "jiff-0.2.24",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [
+                "std"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "jiff-0.2.24": {
+          "dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "log",
+              "package_key": "log-0.4.29",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "serde_core",
+              "package_key": "serde_core-1.0.228",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "log-0.4.29": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "memchr-2.8.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "normalize-line-endings-0.3.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "regex-1.12.3": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_automata",
+              "package_key": "regex-automata-0.4.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-automata-0.4.14": {
+          "dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "aho_corasick",
+              "package_key": "aho-corasick-1.1.4",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "memchr",
+              "package_key": "memchr-2.8.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "regex_syntax",
+              "package_key": "regex-syntax-0.8.10",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "regex-syntax-0.8.10": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "serde_core-1.0.228": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "similar-2.7.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "snapbox-1.1.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "normalize_line_endings",
+              "package_key": "normalize-line-endings-0.3.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "similar",
+              "package_key": "similar-2.7.0",
+              "kind": "normal",
+              "features": [
+                "inline"
+              ],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "snapbox_macros",
+              "package_key": "snapbox-macros-1.0.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "snapbox-macros-1.0.1": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
     }
   }
 }
